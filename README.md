@@ -1,8 +1,19 @@
-# terminal_based_games
-This repo contains some terminal based games implemented using python and java
+# Terminal Based Games
 
-PokemonGame and PotionSellerGame are implemented using python, mainly to demonstrate the implementation and use of different data structures and algorithms.
+This repository contains several terminal-based games implemented in Python and Java.
 
-EldenRingGame is implemented using java with only terminal interaction, mainly to demonstrate the implementation and use of different Object Oriented Concepts.
+## Python Games
 
-Fiery Dragon Game is implemented using java with GUI, mainly to demonstrate the implementation and use of different design choices like MVC.
+- **PokemonGame**  
+  Demonstrates the implementation and use of various data structures and algorithms.
+
+- **PotionSellerGame**  
+  Showcases different data structures and algorithms through game mechanics.
+
+## Java Games
+
+- **EldenRingGame**  
+  A terminal-interactive game that illustrates the application of Object-Oriented Concepts.
+
+- **Fiery Dragon Game**  
+  A GUI-based game that demonstrates design choices such as the Model-View-Controller (MVC) pattern.
